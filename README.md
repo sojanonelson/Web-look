@@ -17,7 +17,7 @@ Web Look is a Python tool developed for educational purposes, enabling users to 
    - Adjust any other parameters according to your preferences, such as the interval for proxy rotation.
 
 3. **Execution**:
-   - Run the program by executing `web_look.py`:
+   - Run the program by executing `weblook.py`:
      ```
      python web_look.py
      ```
