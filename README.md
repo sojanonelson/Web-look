@@ -1,4 +1,4 @@
-# Web Look
+# Web Look V1
 
 Web Look is a Python tool developed for educational purposes, enabling users to browse websites anonymously and securely through the utilization of proxy IP addresses. This tool utilizes Selenium and Chrome WebDriver to automate web browser actions, providing users with a seamless browsing experience while rotating through a list of proxy servers.
 
